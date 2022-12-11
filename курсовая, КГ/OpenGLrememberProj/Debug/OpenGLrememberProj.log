@@ -1,0 +1,14 @@
+﻿  Render.cpp
+C:\Users\bfoyb\OneDrive\Рабочий стол\учеба 5сем\grafika_lab2\OpenGLrememberProj\Render.cpp(115,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\bfoyb\OneDrive\Рабочий стол\учеба 5сем\grafika_lab2\OpenGLrememberProj\Render.cpp(115,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\bfoyb\OneDrive\Рабочий стол\учеба 5сем\grafika_lab2\OpenGLrememberProj\Render.cpp(115,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\bfoyb\OneDrive\Рабочий стол\учеба 5сем\grafika_lab2\OpenGLrememberProj\Render.cpp(358,24): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\bfoyb\OneDrive\Рабочий стол\учеба 5сем\grafika_lab2\OpenGLrememberProj\Render.cpp(360,24): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\bfoyb\OneDrive\Рабочий стол\учеба 5сем\grafika_lab2\OpenGLrememberProj\Render.cpp(362,24): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\bfoyb\OneDrive\Рабочий стол\учеба 5сем\grafika_lab2\OpenGLrememberProj\Render.cpp(364,25): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\bfoyb\OneDrive\Рабочий стол\учеба 5сем\grafika_lab2\OpenGLrememberProj\Render.cpp(366,25): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\bfoyb\OneDrive\Рабочий стол\учеба 5сем\grafika_lab2\OpenGLrememberProj\Render.cpp(368,26): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\bfoyb\OneDrive\Рабочий стол\учеба 5сем\grafika_lab2\OpenGLrememberProj\Render.cpp(370,26): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\bfoyb\OneDrive\Рабочий стол\учеба 5сем\grafika_lab2\OpenGLrememberProj\Render.cpp(372,25): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\bfoyb\OneDrive\Рабочий стол\учеба 5сем\grafika_lab2\OpenGLrememberProj\Render.cpp(311): warning C4172: возвращение адреса локальной или временной переменной : normal
+  OpenGLrememberProj.vcxproj -> C:\Users\bfoyb\OneDrive\Рабочий стол\учеба 5сем\grafika_lab2\Debug\OpenGLrememberProj.exe
